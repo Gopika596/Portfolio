@@ -1,7 +1,7 @@
 import React from 'react';
 import { motion } from 'motion/react';
 import { Typewriter } from 'react-simple-typewriter';
-import { ArrowRight, ChevronDown } from 'lucide-react';
+import { ArrowRight, ChevronDown, ExternalLink } from 'lucide-react';
 
 const Hero = () => {
   return (
@@ -70,6 +70,16 @@ const Hero = () => {
               className="px-8 py-4 rounded-full glass text-white font-bold hover:bg-white/10 transition-colors"
             >
               Contact Me
+            </motion.a>
+             <motion.a
+              href="https://pdflink.to/759f2a37/"
+              target="_blank"
+              rel="noopener noreferrer"
+              whileHover={{ scale: 1.05 }}
+              whileTap={{ scale: 0.95 }}
+              className="px-8 py-4 rounded-full bg-gradient-to-r from-neon-blue to-neon-purple text-white font-bold flex items-center gap-2 shadow-[0_0_20px_rgba(0,242,255,0.3)]"
+            >
+              View Resume <ExternalLink size={18} />
             </motion.a>
           </div>
         </motion.div>
