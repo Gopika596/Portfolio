@@ -72,7 +72,7 @@ const Hero = () => {
               Contact Me
             </motion.a>
              <motion.a
-              href="https://pdf.ac/c4-lL1F3x"
+              href="https://res.cloudinary.com/difogadm8/image/upload/v1773930718/FAANGPath_Simple_Template_1_jnt3kx.jpg"
               target="_blank"
               rel="noopener noreferrer"
               whileHover={{ scale: 1.05 }}
