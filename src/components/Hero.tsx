@@ -72,7 +72,7 @@ const Hero = () => {
               Contact Me
             </motion.a>
              <motion.a
-              href="https://pdflink.to/759f2a37/"
+              href="https://pdf.ac/c4-lL1F3x"
               target="_blank"
               rel="noopener noreferrer"
               whileHover={{ scale: 1.05 }}
