@@ -11,7 +11,6 @@ import Projects from './components/Projects';
 import Experience from './components/Experience';
 import Certifications from './components/Certifications';
 import Contact from './components/Contact';
-import Chatbot from './components/Chatbot';
 import LoadingScreen from './components/LoadingScreen';
 
 export default function App() {
@@ -59,8 +58,6 @@ export default function App() {
           </p>
         </div>
       </footer>
-
-      <Chatbot />
     </div>
   );
 }
