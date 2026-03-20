@@ -22,7 +22,7 @@ const Projects = () => {
       desc: "AI-powered language learning platform using Generative AI for personalized conversation practice and real-time feedback.",
       tech: ["Next.js", "OpenAI API", "PostgreSQL", "Framer Motion"],
       image: "https://res.cloudinary.com/difogadm8/image/upload/v1773751215/WhatsApp_Image_2026-03-17_at_6.06.19_PM_veendp.jpg",
-      live: "https://res.cloudinary.com/difogadm8/video/upload/v1773754154/LingoMaster_1_iyugbf.mp4"
+      live: "https://aistudio.google.com/apps/09d3d803-8c8d-48d1-bc01-faa2d47f3c37?showPreview=true&showAssistant=true&fullscreenApplet=true"
     },
     {
       title: "ML Predictive Maintenance",
