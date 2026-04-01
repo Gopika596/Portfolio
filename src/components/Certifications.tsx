@@ -86,7 +86,7 @@ const Certifications = () => {
       date: "Mar 2026",
       image: "https://res.cloudinary.com/difogadm8/image/upload/v1773901501/b103ccfc-1_hknr2c.jpg",
       link: "https://res.cloudinary.com/difogadm8/image/upload/v1773901501/b103ccfc-1_hknr2c.jpg"
-    }
+    },
     {
       title: "Internship and Job Preparation",
       issuer: "Internshala Trainings",
