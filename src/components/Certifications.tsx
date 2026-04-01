@@ -87,6 +87,13 @@ const Certifications = () => {
       image: "https://res.cloudinary.com/difogadm8/image/upload/v1773901501/b103ccfc-1_hknr2c.jpg",
       link: "https://res.cloudinary.com/difogadm8/image/upload/v1773901501/b103ccfc-1_hknr2c.jpg"
     }
+    {
+      title: "Internship and Job Preparation",
+      issuer: "Internshala Trainings",
+      date: "April 2026",
+      image: "https://res.cloudinary.com/difogadm8/image/upload/q_auto/f_auto/v1775048000/Screenshot_2026-04-01_181822_nj7nav.png",
+      link: "https://res.cloudinary.com/difogadm8/image/upload/q_auto/f_auto/v1775048000/Screenshot_2026-04-01_181822_nj7nav.png"
+    }
   ];
 
   return (
