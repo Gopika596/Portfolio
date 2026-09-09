@@ -4,9 +4,7 @@
 
 # Run and deploy your AI Studio app
 
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/924bb923-1852-4b05-ad9d-bca1f818c458
+https://portfolio-tau-umber-39.vercel.app/
 
 ## Run Locally
 
